@@ -114,6 +114,29 @@ CrimeInvestigationSystem/
 
 ---
 
+## 📸 Screenshots
+
+> A visual walkthrough of CRIS in action.
+
+### 🖥️ Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 📁 Case Management
+![Cases Panel](screenshots/cases.png)
+
+### 🕵️ Suspects Database
+![Suspects Panel](screenshots/suspects.png)
+
+### 🔎 Evidence Vault
+![Evidence Panel](screenshots/evidence.png)
+
+### 🗺️ Investigation Board
+![Investigation Board](screenshots/investigation.png)
+
+---
+
+---
+
 ## 🧩 Modules & Features
 
 ### 🖥️ Command Dashboard
